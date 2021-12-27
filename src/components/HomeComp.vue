@@ -32,6 +32,7 @@ color: var(--white);
 .slider .caption .career:hover{
     background-color: var(--main-color);
     transition: ease-in-out 1s;
+    transform: rotate(20deg);
 }
 /* small */
     @media (min-width: 320px) {
